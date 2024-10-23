@@ -1,4 +1,16 @@
 sqlite3
+pandas
+matplotlib
+seaborn
+numpy
 transformers
 tqdm
 logging
+nltk
+torch
+re
+datetime
+bs4
+selenium
+time
+dateparser
